@@ -1,1 +1,18 @@
-
+{
+    "id": 96699799,
+    "name": "My",
+    "author": "RionFX",
+    "creators": ["RioxFX"],
+    "verifier": "RionFX",
+    "verification": "https://youtu.be/oXsYFlcTvqU?si=ietCkrvJ3GY3M00u",
+    "percentToQualify": 100,
+    "password":"Copyable",
+    "records": [
+                 {
+            "user": "Micaten",
+            "link": "https://www.youtube.com/watch?v=tw-4vjZGB0A",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
+}

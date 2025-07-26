@@ -1,0 +1,18 @@
+{
+    "id": 107084890,
+    "name": "Cat Wave Circles",
+    "author": "GalaxyCatCz",
+    "creators": ["GalaxyCatCz"],
+    "verifier": "Brbelnik",
+    "verification": "https://youtu.be/dQw4w9WgXcQ",
+    "percentToQualify": 100,
+    "password":"Copyable",
+    "records": [
+                  {
+            "user": "Micaten",
+            "link": "https://www.youtube.com/watch?v=RZ379iLpQbw",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
+}

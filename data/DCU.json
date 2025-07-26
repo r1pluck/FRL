@@ -1,1 +1,18 @@
-
+{
+    "id": 97693934,
+    "name": "DCU",
+    "author": "RinFX",
+    "creators": ["RionFX"],
+    "verifier": "RionFX",
+    "verification": "https://www.youtube.com/watch?v=813l8F5syOA",
+    "percentToQualify": 100,
+    "password":"Copyable",
+    "records": [
+                  {
+            "user": "Micaten",
+            "link": "https://www.youtube.com/watch?v=3chZil0xDKU",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
+}

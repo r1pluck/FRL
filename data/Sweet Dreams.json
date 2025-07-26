@@ -8,6 +8,11 @@
     "percentToQualify": 100,
     "password":"Copyable",
     "records": [
-        
+         {
+            "user": "Micaten",
+            "link": "https://www.youtube.com/watch?v=v21S55Z0bV8&t=1788s",
+            "percent": 100,
+            "hz": 165
+        }
     ]
 }

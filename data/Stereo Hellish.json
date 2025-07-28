@@ -8,6 +8,11 @@
     "percentToQualify": 100,
     "password":"Copyable",
     "records": [
-        
+                         {
+            "user": "GalaxyCatCz",
+            "link": "https://www.youtube.com/watch?v=5NBpOwr9D6M",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }

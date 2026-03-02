@@ -8,6 +8,11 @@
     "percentToQualify": 100,
     "password":"Copyable",
     "records": [
-        
+        {
+         "user": "Kroks",
+            "link": "https://youtu.be/TRweg5OmW7A?si=SURG-EIRy03crYJx",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

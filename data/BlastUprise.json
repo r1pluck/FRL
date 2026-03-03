@@ -4,7 +4,7 @@
     "author": "TomGDCZ",
     "creators": ["TomGDCZ"],
     "verifier": "TomGDCZ",
-    "verification": "https://youtu.be/dQw4w9WgXcQ",
+    "verification": "https://youtu.be/0smP0KXJksI",
     "percentToQualify": 100,
     "password":"Copyable",
     "records": [
@@ -13,6 +13,12 @@
             "link": "https://youtu.be/dQw4w9WgXcQ",
             "percent": 100,
             "hz": 165
+        },
+            {
+         "user": "Domca123",
+            "link": "https://youtu.be/0smP0KXJksI",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

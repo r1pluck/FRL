@@ -4,10 +4,15 @@
     "author": "Micaten1655",
     "creators": ["Micaten1655"],
     "verifier": "Micaten",
-    "verification": "https://youtu.be/dQw4w9WgXcQ",
+    "verification": "https://youtu.be/jjjpienh25w",
     "percentToQualify": 100,
     "password":"Copyable",
     "records": [
-        
+           {
+         "user": "Domca123",
+            "link": "https://youtu.be/jjjpienh25w",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

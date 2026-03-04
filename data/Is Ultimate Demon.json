@@ -4,10 +4,15 @@
     "author": "theripluck",
     "creators": ["theripluck"],
     "verifier": "theripluck",
-    "verification": "https://youtu.be/dQw4w9WgXcQ",
+    "verification": "https://youtu.be/Ate2zGj2MPM",
     "percentToQualify": 100,
     "password":"Copyable",
     "records": [
-        
+         {
+         "user": "Domca123",
+            "link": "https://youtu.be/Ate2zGj2MPM",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

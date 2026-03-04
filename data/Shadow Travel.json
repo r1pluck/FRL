@@ -4,10 +4,15 @@
     "author": "Napiox",
     "creators": ["Napiox"],
     "verifier": "Napiox",
-    "verification": "https://youtu.be/dQw4w9WgXcQ",
+    "verification": "https://youtu.be/ILlQV-5Xpvk",
     "percentToQualify": 100,
     "password":"Copyable",
     "records": [
-
+        {
+         "user": "Domca123",
+            "link": "https://youtu.be/ILlQV-5Xpvk",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

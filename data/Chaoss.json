@@ -4,7 +4,7 @@
     "author": "Mrfjuricak",
     "creators": ["Mrfjuricak"],
     "verifier": "Mrfjuricak",
-    "verification": "https://youtu.be/dQw4w9WgXcQ",
+    "verification": "https://youtu.be/I-d_cFkGmUI",
     "percentToQualify": 100,
     "password":"Copyable",
     "records": [
@@ -19,6 +19,12 @@
             "link": "https://youtu.be/dQw4w9WgXcQ",
             "percent": 100,
             "hz": 165
+        },
+          {
+         "user": "Domca123",
+            "link": "https://youtu.be/I-d_cFkGmUI",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

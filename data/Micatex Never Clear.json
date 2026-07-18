@@ -8,6 +8,11 @@
     "percentToQualify": 100,
     "password":"Copyable",
     "records": [
-        
+          {
+            "user": "Domca123",
+            "link": "https://youtu.be/WveDHESwI0s",
+            "percent": 100,
+            "hz": 165
+        }  
     ]
 }

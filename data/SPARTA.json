@@ -8,6 +8,11 @@
     "percentToQualify": 100,
     "password":"Copyable",
     "records": [
-        
+          {
+         "user": "Domca123",
+            "link": "https://medal.tv/games/geometry-dash/clips/naqvbFEr6JQEHVGaT?invite=cr-MSx3M3osMjY5MDA2NDkw",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }

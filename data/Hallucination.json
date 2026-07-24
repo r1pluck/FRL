@@ -19,6 +19,12 @@
             "link": "https://youtu.be/wK25HcMHd_c",
             "percent": 100,
             "hz": 240
+        },
+           {
+         "user": "TomGDCZ",
+            "link": "https://youtu.be/dQw4w9WgXcQ",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
